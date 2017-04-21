@@ -1,0 +1,129 @@
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Option.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Register.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\App.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\KO.csproj.GenerateResource.Cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\KO.csprojResolveAssemblyReference.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Option.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Register.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\App.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\obj\Debug\KO.csproj.GenerateResource.Cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\bin\Debug\WpfAnimatedGif.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\KO\WPFPageSwitch\bin\Debug\WpfAnimatedGif.xml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\nui\KONew\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\nui\KONew\KO\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\nui\KONew\KO\WPFPageSwitch\bin\Debug\WpfAnimatedGif.xml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\KO.csprojResolveAssemblyReference.cache
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Option.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Register.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\App.g.cs
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\nui\KONew\KO\WPFPageSwitch\obj\Debug\KO.csproj.GenerateResource.Cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\KO.csprojResolveAssemblyReference.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Option.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Register.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\MainWindow.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\App.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.lref
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe.config
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\Microsoft.Kinect.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\WpfAnimatedGif.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\Microsoft.Kinect.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\Debug\WpfAnimatedGif.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\MainWindow.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\KO.csproj.GenerateResource.Cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\KnockOut.exe.config
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KO.csprojResolveAssemblyReference.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Option.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Register.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\App.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KnockOut_MarkupCompile.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KnockOut.g.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KO.csproj.GenerateResource.Cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\Microsoft.Kinect.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\Microsoft.Kinect.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\Debug\WpfAnimatedGif.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\Debug\KnockOut.pdb

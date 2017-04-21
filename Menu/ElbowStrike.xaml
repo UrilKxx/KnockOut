@@ -1,0 +1,29 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:gif="clr-namespace:WpfAnimatedGif;assembly=WpfAnimatedGif"
+	mc:Ignorable="d"
+	x:Class="KnockOut.ElbowStrike"
+	d:DesignWidth="640" d:DesignHeight="480" Width="1550" Height="820">
+
+    <Grid x:Name="gameplayLayoutRoot" Background="#FF2E327A">
+        <!--<Button HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Width="100" Content="&lt; Back" Height="25" Click="Button_Click"/>-->
+
+        <Image gif:ImageBehavior.AnimatedSource="C:\Divya\WPFPageSwitch\Images/Elbowpunch_Side1.gif" x:Name="image"   HorizontalAlignment="Stretch" Height="644.846" Margin="51,110,611.269,0" VerticalAlignment="Top" Width="Auto" MouseDown="image_MouseDown">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <TextBlock x:Name="Button1" Height="66" HorizontalAlignment="Center" Margin="191,20,213,0" VerticalAlignment="Top" Width="396" Text="Lesson 4 : ElbowStrike" Foreground="AliceBlue" TextWrapping="Wrap" FontSize="48" TextAlignment="Center" FontWeight="Bold"/>
+        <Grid Height="606.701" Width="200" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,75.372,89.667,0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="111*"/>
+                <RowDefinition Height="26*"/>
+                <RowDefinition Height="203*"/>
+            </Grid.RowDefinitions>
+            <Canvas Name="canvas" Margin="-80.174,-41.189,-62.774,0" Grid.RowSpan="3" />
+        </Grid>
+    </Grid>
+</UserControl>

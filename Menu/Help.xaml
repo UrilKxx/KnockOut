@@ -1,0 +1,20 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="KnockOut.Help"
+	d:DesignWidth="640" d:DesignHeight="480" Width="1550" Height="820">
+
+    <Grid x:Name="LayoutRoot" Background="#FF2E327A">
+        <StackPanel HorizontalAlignment="Left" Height="256" Margin="55.811,184,0,0" VerticalAlignment="Top" Width="403"/>
+        <StackPanel HorizontalAlignment="Left" Height="256" Margin="569.522,184,0,0" VerticalAlignment="Top" Width="403"/>
+        <StackPanel HorizontalAlignment="Left" Height="256" Margin="1089.28,184,0,0" VerticalAlignment="Top" Width="403"/>
+        <TextBlock x:Name="textBlock" Height="130" Margin="87,496,1152.4,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Raise arms for this screen (Help)" FontSize="36" FontWeight="Bold" Foreground="#FFFCEAEA"/>
+        <TextBlock x:Name="textBlock1" Margin="617.406,496,622.994,166" TextWrapping="Wrap" Text="Move arms in circular motion to replay " FontSize="36" FontWeight="Bold" Foreground="#FFF1E0E0"/>
+        <TextBlock x:Name="textBlock2" Height="136" Margin="1125,0,95.4,188" TextWrapping="Wrap" Text="Cross arms above head to quit" VerticalAlignment="Bottom" FontSize="36" FontWeight="Bold" Foreground="#FFEDE5E5"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Right" Height="82.876" Margin="0,0,-38.496,0" TextWrapping="Wrap" Text="Wave to continue" VerticalAlignment="Bottom" Width="499.216" FontFamily="Stencil" FontSize="48"/>
+        <TextBlock x:Name="textBlock4" Height="84.54" Margin="713.114,10,493.812,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFE4CECE" FontSize="48"><Run FontFamily="Stencil" Text="HELP "/></TextBlock>
+    </Grid>
+</UserControl>

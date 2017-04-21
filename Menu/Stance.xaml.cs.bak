@@ -1,0 +1,48 @@
+﻿using System;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Documents;
+using System.Windows.Ink;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
+using System.Windows.Shapes;
+
+namespace KnockOut
+{
+	public partial class Stance : UserControl, ISwitchable
+	{
+		public Stance()
+		{
+            try
+            {
+                InitializeComponent();
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
+            //MainMenu
+		}
+
+        #region ISwitchable Members
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void Button_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+        	Switcher.Switch(new LoadGame());
+        }
+        #endregion
+
+        private void image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            
+            //MainMenu.GestureName = "Quit";
+            Application.Current.Shutdown();
+        }
+    }
+}

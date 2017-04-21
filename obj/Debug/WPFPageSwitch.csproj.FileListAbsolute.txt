@@ -1,0 +1,79 @@
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\ResolveAssemblyReference.cache
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\App.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.csprojResolveAssemblyReference.cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\App.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.csproj.GenerateResource.Cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Window1.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.lref
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Window1.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.csprojResolveAssemblyReference.cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Login.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Option.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Register.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Login.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Window1.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\App.g.cs
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.lref
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\Menu\Window1.baml
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\jenij\Documents\Visual Studio 2015\Projects\KO\WPFPageSwitch\obj\Debug\WPFPageSwitch.csproj.GenerateResource.Cache

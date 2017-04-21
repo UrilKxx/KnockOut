@@ -1,0 +1,15 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="KnockOut.Option"
+	d:DesignWidth="640" d:DesignHeight="480" Width="1550" Height="820">
+
+    <Grid x:Name="LayoutRoot" Background="#FF2E327A">
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Right" Height="83" Margin="0,0,-44.751,39.368" TextWrapping="Wrap" Text="Bow to quit" VerticalAlignment="Bottom" Width="500" FontFamily="Stencil" FontSize="60" Foreground="#FFEDDEDE"/>
+        <TextBlock x:Name="textBlock" Height="234.851" Margin="125.232,69.234,633.332,0" TextWrapping="Wrap" Text="congratulations !" VerticalAlignment="Top" FontSize="80" FontFamily="Stencil" Foreground="#FFF4E6E6"/>
+        <Image x:Name="___KnockOut_component_bowing_png" Source="C:\Divya\WPFPageSwitch/bowing.png" Stretch="Fill" Margin="229.421,188.696,765.136,93.94"/>
+    </Grid>
+</UserControl>

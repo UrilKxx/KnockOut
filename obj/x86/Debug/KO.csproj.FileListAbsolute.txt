@@ -1,0 +1,157 @@
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\WpfAnimatedGif.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\WpfAnimatedGif.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Option.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Register.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\PageSwitcher.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Option.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\Menu\Register.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\PageSwitcher.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\App.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\MainWindow.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KO.csproj.GenerateResource.Cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\KnockOut.exe.config
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KO.csprojResolveAssemblyReference.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.lref
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\KnockOut.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\bin\x86\Debug\KnockOut.pdb
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KnockOut.g.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KnockOut.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\KOLatest\KONew\KO\WPFPageSwitch\obj\x86\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\KnockOut.exe.config
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Option.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Register.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\PageSwitcher.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Option.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\Menu\Register.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\PageSwitcher.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\App.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KnockOut.g.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\WPFPageSwitch.Properties.Resources.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KO.csproj.GenerateResource.Cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\WPFPageSwitch\obj\x86\Debug\KO.csprojResolveAssemblyReference.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\KnockOut.exe.config
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KnockOut.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KnockOut.pdb
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\KnockOut.exe
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\KnockOut.pdb
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KO.csprojResolveAssemblyReference.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Option.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Register.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\PageSwitcher.baml
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Gameplay.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Option.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\Menu\Register.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\PageSwitcher.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\App.g.cs
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.cache
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KnockOut.g.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Users\vazra\Documents\Visual Studio 2015\Projects\WPFPageSwitch\obj\x86\Debug\KO.csproj.GenerateResource.Cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\KnockOut.exe.config
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\KnockOut.exe
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\KnockOut.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KO.csprojResolveAssemblyReference.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Option.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Register.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\PageSwitcher.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Option.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Register.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\PageSwitcher.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\App.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KnockOut.g.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\WPFPageSwitch.Properties.Resources.resources
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\KO.csproj.GenerateResource.Cache
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Stance.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Stance.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\App.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\KinectStreams.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\bin\x86\Debug\WpfAnimatedGif.pdb
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\RightJab.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Hook.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\UpperCut.baml
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\RightJab.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\Hook.g.cs
+D:\Divya\MS\UFL\SEM2\NUI\Project\Final\WPFPageSwitch\obj\x86\Debug\Menu\UpperCut.g.cs
+C:\Divya\WPFPageSwitch\bin\x86\Debug\KnockOut.exe.config
+C:\Divya\WPFPageSwitch\bin\x86\Debug\KnockOut.exe
+C:\Divya\WPFPageSwitch\bin\x86\Debug\KnockOut.pdb
+C:\Divya\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Divya\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Divya\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Divya\WPFPageSwitch\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\RightJab.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\ElbowStrike.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\UpperCut.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Stance.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Option.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Register.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\PageSwitcher.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\App.baml
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\RightJab.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\ElbowStrike.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\UpperCut.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Stance.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\LoadGame.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\MainMenu.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Option.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\Menu\Register.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\PageSwitcher.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\App.g.cs
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KnockOut_MarkupCompile.cache
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KnockOut.g.resources
+C:\Divya\WPFPageSwitch\obj\x86\Debug\WPFPageSwitch.Properties.Resources.resources
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KO.csproj.GenerateResource.Cache
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KnockOut.exe
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KnockOut.pdb
+C:\Divya\WPFPageSwitch\obj\x86\Debug\KO.csprojResolveAssemblyReference.cache
